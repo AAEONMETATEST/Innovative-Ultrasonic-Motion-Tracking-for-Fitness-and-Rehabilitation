@@ -19,7 +19,7 @@ Our project integrates innovative ultrasonic motion tracking technology from Gen
 
 # Core Technology
 
-At the heart of our system is Llama 3 (8b), an advanced language model that enhances user interaction through refined language comprehension and generation capabilities. This technology powers natural language interfaces, facilitates real-time feedback, and provides personalized exercise recommendations, significantly improving user engagement and experience.
+At the heart of our system is Llama 3.1 (8b), an advanced language model that enhances user interaction through refined language comprehension and generation capabilities. This technology powers natural language interfaces, facilitates real-time feedback, and provides personalized exercise recommendations, significantly improving user engagement and experience.
 
 <br/>
 
@@ -37,7 +37,7 @@ At the heart of our system is Llama 3 (8b), an advanced language model that enha
 - The low manufacturing cost of ultrasonic emitters (below $1) makes the technology affordable and scalable, broadening its accessibility.
   
 **Personalized Guidance:**
-- Llama 3 provides tailored exercise recommendations and instant feedback, improving user engagement and adherence to fitness and rehabilitation protocols.
+- Llama 3.1 provides tailored exercise recommendations and instant feedback, improving user engagement and adherence to fitness and rehabilitation protocols.
   
 **Data-Driven Insights:** 
 - The system collects and analyzes user data to offer detailed insights into exercise performance and progress, aiding fitness trainers and healthcare professionals in tailoring programs to individual needs.
