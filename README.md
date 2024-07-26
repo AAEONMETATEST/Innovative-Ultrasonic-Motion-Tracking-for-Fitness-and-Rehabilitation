@@ -66,7 +66,7 @@ In summary, our project exemplifies the innovative use of AI and ultrasonic tech
 
 # Meta Llama Impact Innovation Awards Proposal
 
-Pleasw click [here](https://github.com/AAEONMETATEST/Innovative-Ultrasonic-Motion-Tracking-for-Fitness-and-Rehabilitation/blob/main/reference/Meta%20llama%20proposal-AAEON20240726.pdf) to be redirected to the location of the proposal PDF.
+Please click [here](https://github.com/AAEONMETATEST/Innovative-Ultrasonic-Motion-Tracking-for-Fitness-and-Rehabilitation/blob/main/reference/Meta%20llama%20proposal-AAEON20240726.pdf) to be redirected to the location of the proposal PDF.
 
 </br>
 
@@ -74,7 +74,7 @@ Pleasw click [here](https://github.com/AAEONMETATEST/Innovative-Ultrasonic-Motio
 
 # Video Demo
 
-Pleasw click [here](https://www.youtube.com/watch?v=MKBsYrS7e_U) to see how to use APP to record measurement results of exercise equipment using ultrasonic signals.
+Please click [here](https://www.youtube.com/watch?v=MKBsYrS7e_U) to see how to use APP to record measurement results of exercise equipment using ultrasonic signals.
 
 </br>
 
