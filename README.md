@@ -110,3 +110,19 @@ Please click [here](https://www.youtube.com/watch?v=MKBsYrS7e_U) to see how to u
 # APP Link
 
 please click [here](https://github.com/AAEONMETATEST/Innovative-Ultrasonic-Motion-Tracking-for-Fitness-and-Rehabilitation/blob/main/reference/exercise_ai_aeeon_1.1.5.apk) to be directed to the Android APK download location.
+
+---
+
+# LICENSE
+
+This project is licensed under the MIT License with additional restrictions. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+# Contact Us
+
+If you are a reviewer for the "Meta Llama Impact Innovation Awards," please contact us. We can provide a GitHub account for you to access further core technology details and related information about our product.
+
+**Contact E-mail:** service@genius-gh.com
+
+
